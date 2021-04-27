@@ -170,7 +170,7 @@ h1{
     padding: 14px;
     margin-left: -15px;
     margin-top: -1px;
-    background-image: url(file:///C:/Users/Fernanda/Documents/fp456.github.io/assets/images/Group%2051.svg);
+    background-image: url(./assets/images/Group\ 51.svg);
     background-position: center center; 
     background-size: 100% 100%; 
  
@@ -215,7 +215,7 @@ h1{
 }
 
 .dark-mode #sun{
-    background-image: url(file:///C:/Users/Fernanda/Documents/fp456.github.io/assets/images/moon.svg);
+    background-image: url(./assets/images/moon.svg);
 }
 
 /*book bounce*/
