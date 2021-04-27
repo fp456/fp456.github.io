@@ -215,7 +215,7 @@ h1{
 }
 
 .dark-mode #sun{
-    background-image: url(./assets/images/moon.svg);
+    background-image: url('../../assets/images/moon.svg');
 }
 
 /*book bounce*/
